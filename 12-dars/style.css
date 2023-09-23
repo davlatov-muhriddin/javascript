@@ -1,0 +1,20 @@
+* {
+  margin: 0px;
+  padding: 0px;
+  box-sizing: border-box;
+}
+
+.heading {
+  background-color: crimson;
+  color: #fff;
+  width: 500px;
+  margin: 30px auto;
+  border-radius: 5px;
+  text-align: center;
+  padding: 10px 0px;
+  font-family: sans-serif;
+}
+
+.img {
+  border-radius: 15px;
+}
